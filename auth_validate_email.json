@@ -1,0 +1,6 @@
+{
+  "code": "AUTH_VALIDATION_EMAIL_VALID",
+  "data": {
+    "emailToken": "email_token_value"
+  }
+}

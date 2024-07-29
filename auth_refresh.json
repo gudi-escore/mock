@@ -1,0 +1,8 @@
+{
+  "code": "AUTH_REFRESH_COMPLETED",
+  "data": {
+    "refreshToken": "new_refresh_token_value",
+    "accessToken": "new_access_token_value",
+    "expires": 1722297600000
+  }
+}
