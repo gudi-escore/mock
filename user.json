@@ -1,0 +1,8 @@
+{
+    "code": "USER_QUERY",
+    "data": {
+      "nickname": "string",
+      "email": "string",
+      "country": "string"
+    }
+  }
