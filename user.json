@@ -1,8 +1,8 @@
 {
     "code": "USER_QUERY",
     "data": {
-      "nickname": "string",
-      "email": "string",
-      "country": "string"
+      "nickname": "조기봉",
+      "email": "mock@gmail.com",
+      "country": "kr"
     }
   }
