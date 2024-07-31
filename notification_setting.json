@@ -1,5 +1,5 @@
 {
-    "code": "NOTI_SETTING",
+    "code": "NOTI_QUERY_SETTING",
     "data": {
       "settings": {
         "push": true,
