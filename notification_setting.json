@@ -1,0 +1,10 @@
+{
+    "code": "NOTI_SETTING",
+    "data": {
+      "settings": {
+        "push": true,
+        "marketing": false,
+        "notice": true
+      }
+    }
+  }

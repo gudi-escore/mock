@@ -1,0 +1,12 @@
+{
+    "code": "NOTI_QUERY_LIST",
+    "data": {
+      "notifications": [
+        {
+          "id": "example_id",
+          "title": "Example Title",
+          "message": "Example Message"
+        }
+      ]
+    }
+  }

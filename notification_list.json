@@ -1,0 +1,11 @@
+{
+    "code": "NOTI_QUERY_CATEGORY",
+    "data": {
+      "categories": [
+        {
+          "category": "example_category",
+          "label": "Example Label"
+        }
+      ]
+    }
+  }

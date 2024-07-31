@@ -1,0 +1,6 @@
+{
+    "code": "NOTI_READ",
+    "data": {
+      "notificationId": "example_id"
+    }
+  }
