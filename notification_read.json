@@ -1,5 +1,5 @@
 {
-    "code": "NOTI_READ",
+    "code": "NOTI_MARK_READ",
     "data": {
       "notificationId": "example_id"
     }

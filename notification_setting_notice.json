@@ -1,6 +1,3 @@
 {
-    "code": "NOTI_SETTING_NOTICE",
-    "data": {
-      "mute": false
-    }
-  }
+  "code": "NOTI_MUTE_NOTICE"
+}

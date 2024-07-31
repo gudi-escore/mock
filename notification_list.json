@@ -1,10 +1,12 @@
-{
-    "code": "NOTI_QUERY_CATEGORY",
+
+  {
+    "code": "NOTI_QUERY_LIST",
     "data": {
-      "categories": [
+      "notifications": [
         {
-          "category": "example_category",
-          "label": "Example Label"
+          "id": "example_id",
+          "title": "Example Title",
+          "message": "Example Message"
         }
       ]
     }

@@ -1,6 +1,3 @@
 {
-    "code": "NOTI_SETTING_MARKETING",
-    "data": {
-      "subscriberMarketing": true
-    }
-  }
+  "code": "NOTI_MUTE_MARKETING"
+}
