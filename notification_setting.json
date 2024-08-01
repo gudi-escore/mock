@@ -1,10 +1,9 @@
 {
-    "code": "NOTI_QUERY_SETTING",
-    "data": {
-      "settings": {
-        "push": true,
-        "marketing": false,
-        "notice": true
-      }
-    }
+  "code": "NOTI_QUERY_SETTING",
+  "data": {
+    "muteUntil": 0,
+    "muteType": "string",
+    "subscribeNotice": true,
+    "subscribeMarketing": true
   }
+}

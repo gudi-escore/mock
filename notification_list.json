@@ -1,13 +1,17 @@
-
-  {
-    "code": "NOTI_QUERY_LIST",
-    "data": {
-      "notifications": [
-        {
-          "id": "example_id",
-          "title": "Example Title",
-          "message": "Example Message"
-        }
-      ]
-    }
+{
+  "code": "NOTI_QUERY_LIST",
+  "data": {
+    "checkPoint": "string",
+    "notifications": [
+      {
+        "id": "string",
+        "category": "string",
+        "label": "string",
+        "title": "string",
+        "url": "string",
+        "createdAt": 0,
+        "read": true
+      }
+    ]
   }
+}
