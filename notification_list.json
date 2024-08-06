@@ -4,12 +4,34 @@
     "checkPoint": "string",
     "notifications": [
       {
-        "id": "string",
-        "category": "string",
+        "id": "1",
+        "category": "EVENT",
         "label": "string",
         "title": "string",
         "url": "string",
-        "createdAt": 0,
+        "createdAt": 1722910889828,
+        "read": true
+      },
+  
+      {
+        "id": "2",
+        "category": "LOUNGE",
+        "label": "string",
+        "title": "string",
+        "url": "string",
+        "createdAt": 1722910889828,
+        "read": true
+      }
+
+      ,
+
+      {
+        "id": "3",
+        "category": "NOTICE",
+        "label": "string",
+        "title": "string",
+        "url": "string",
+        "createdAt": 1722910889828,
         "read": true
       }
     ]
